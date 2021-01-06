@@ -1,0 +1,29 @@
+.half-width{
+    width: 35%;
+    float: left;
+    margin: ;
+    /* padding: 4%; */
+    padding-left: 9%;
+    padding-top: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+body{
+    font-family: 'Redressed', cursive;
+    font-size: 25px;
+}
+.name{
+    color:tomato;
+}
+.hire{
+
+
+    border-radius: 3px;
+    font-style: normal;
+    width: 80px;
+    background-image:linear-gradient(45deg,yellow,tomato)
+    
+  
+    
+}
